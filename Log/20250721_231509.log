@@ -1,0 +1,39 @@
+2025-07-21 23:15:09,922 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用开始】
+2025-07-21 23:15:09,924 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【home_api】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-21 23:15:09,925 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-21 23:15:09,925 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:09,982 - baseAutoHttp.py - INFO - 接口的响应时间：0.055521
+2025-07-21 23:15:09,982 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用结束】
+2025-07-21 23:15:09,982 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用开始】
+2025-07-21 23:15:09,984 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【login_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Content-Type': 'application/x-www-form-urlencoded'}, 'params': {'p_p_id': '58', 'p_p_lifecycle': '1', 'p_p_state': 'normal', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', 'saveLastPath': '0', '_58_struts_action': '/login/view', '_58_cmd': 'update'}, 'data': {'_58_redirect': '', '_58_login': 'user01', '_58_password': '1111'}}
+2025-07-21 23:15:09,984 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-21 23:15:09,985 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:09,985 - baseAutoHttp.py - INFO - 接口的请求体：{'_58_redirect': '', '_58_login': 'user01', '_58_password': '1111'}
+2025-07-21 23:15:10,000 - baseAutoHttp.py - INFO - 接口的响应时间：0.014061
+2025-07-21 23:15:10,000 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用结束】
+2025-07-21 23:15:10,119 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用开始】
+2025-07-21 23:15:10,121 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【home_api】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-21 23:15:10,121 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-21 23:15:10,121 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:10,131 - baseAutoHttp.py - INFO - 接口的响应时间：0.009485
+2025-07-21 23:15:10,132 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用结束】
+2025-07-21 23:15:10,132 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用开始】
+2025-07-21 23:15:10,134 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【login_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Content-Type': 'application/x-www-form-urlencoded'}, 'params': {'p_p_id': '58', 'p_p_lifecycle': '1', 'p_p_state': 'normal', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', 'saveLastPath': '0', '_58_struts_action': '/login/view', '_58_cmd': 'update'}, 'data': {'_58_redirect': '', '_58_login': 'user', '_58_password': '1111'}}
+2025-07-21 23:15:10,134 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-21 23:15:10,134 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:10,134 - baseAutoHttp.py - INFO - 接口的请求体：{'_58_redirect': '', '_58_login': 'user', '_58_password': '1111'}
+2025-07-21 23:15:10,151 - baseAutoHttp.py - INFO - 接口的响应时间：0.015856
+2025-07-21 23:15:10,152 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用结束】
+2025-07-21 23:15:10,164 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用开始】
+2025-07-21 23:15:10,166 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【home_api】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-21 23:15:10,166 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-21 23:15:10,166 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:10,179 - baseAutoHttp.py - INFO - 接口的响应时间：0.011156
+2025-07-21 23:15:10,179 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用结束】
+2025-07-21 23:15:10,179 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用开始】
+2025-07-21 23:15:10,180 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【login_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Content-Type': 'application/x-www-form-urlencoded'}, 'params': {'p_p_id': '58', 'p_p_lifecycle': '1', 'p_p_state': 'normal', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', 'saveLastPath': '0', '_58_struts_action': '/login/view', '_58_cmd': 'update'}, 'data': {'_58_redirect': '', '_58_login': 'user01', '_58_password': '111'}}
+2025-07-21 23:15:10,182 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-21 23:15:10,182 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-21 23:15:10,182 - baseAutoHttp.py - INFO - 接口的请求体：{'_58_redirect': '', '_58_login': 'user01', '_58_password': '111'}
+2025-07-21 23:15:10,195 - baseAutoHttp.py - INFO - 接口的响应时间：0.013
+2025-07-21 23:15:10,196 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用结束】

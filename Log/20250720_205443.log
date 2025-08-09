@@ -1,0 +1,8 @@
+2025-07-20 20:54:44,910 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 20:54:45,980 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 20:54:45,982 - web_file_page.py - INFO - 新增文件夹开始
+2025-07-20 20:54:46,672 - web_file_page.py - INFO - 新增文件夹结束
+2025-07-20 20:54:46,713 - web_file_page.py - INFO - 断言新增文件夹成功
+2025-07-20 20:54:46,713 - web_file_page.py - INFO - 删除文件夹开始
+2025-07-20 20:54:46,868 - web_file_page.py - INFO - 删除文件夹结束
+2025-07-20 20:54:47,097 - web_file_page.py - INFO - 断言删除文件夹成功

@@ -1,0 +1,11 @@
+2025-07-20 20:49:29,205 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 20:49:29,789 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 20:49:29,790 - web_file_page.py - INFO - 新增文件夹开始
+2025-07-20 20:49:30,454 - web_file_page.py - INFO - 新增文件夹结束
+2025-07-20 20:49:30,456 - web_file_page.py - INFO - 上传文件开始
+2025-07-20 20:49:30,901 - baseAutoWeb.py - INFO - iframe切换为 file/iframe_file
+2025-07-20 20:49:31,673 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 20:49:31,674 - web_file_page.py - INFO - 上传文件结束
+2025-07-20 20:49:31,695 - web_file_page.py - INFO - 文件断言上传成功
+2025-07-20 20:49:31,696 - web_file_page.py - INFO - 删除文件夹开始
+2025-07-20 20:49:31,848 - web_file_page.py - INFO - 删除文件夹结束

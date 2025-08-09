@@ -1,0 +1,46 @@
+2025-07-22 22:06:24,163 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用开始】
+2025-07-22 22:06:24,165 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【home_api】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-22 22:06:24,165 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-22 22:06:24,165 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-22 22:06:24,186 - baseAutoHttp.py - INFO - 接口的响应时间：0.018687
+2025-07-22 22:06:24,187 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用结束】
+2025-07-22 22:06:24,187 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用开始】
+2025-07-22 22:06:24,189 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【login_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Content-Type': 'application/x-www-form-urlencoded'}, 'params': {'p_p_id': '58', 'p_p_lifecycle': '1', 'p_p_state': 'normal', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', 'saveLastPath': '0', '_58_struts_action': '/login/view', '_58_cmd': 'update'}, 'data': {'_58_redirect': '', '_58_login': 'test01', '_58_password': '1111'}}
+2025-07-22 22:06:24,189 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-22 22:06:24,189 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-22 22:06:24,189 - baseAutoHttp.py - INFO - 接口的请求体：{'_58_redirect': '', '_58_login': 'test01', '_58_password': '1111'}
+2025-07-22 22:06:24,417 - baseAutoHttp.py - INFO - 接口的响应时间：0.025417
+2025-07-22 22:06:24,418 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用结束】
+2025-07-22 22:06:24,420 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:add_folder接口调用开始】
+2025-07-22 22:06:24,426 - baseAutoHttp.py - INFO - 获取【03文件上传下载接口信息】文件【add_folder】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/group/10779/upload', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}, 'params': {'p_p_id': '20', 'p_p_lifecycle': '1', 'p_p_state': 'maximized', 'p_p_mode': 'view', '_20_struts_action': '/document_library/edit_folder'}, 'data': {'_20_cmd': 'add', '_20_redirect': '/group/10779/upload', '_20_folderId': '0', '_20_parentFolderId': '0', '_20_tabs1TabsScroll': '', '_20_name': '测试文件夹1', '_20_description': '描述1'}}
+2025-07-22 22:06:24,426 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-22 22:06:24,426 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/upload
+2025-07-22 22:06:24,426 - baseAutoHttp.py - INFO - 接口的请求体：{'_20_cmd': 'add', '_20_redirect': '/group/10779/upload', '_20_folderId': '0', '_20_parentFolderId': '0', '_20_tabs1TabsScroll': '', '_20_name': '测试文件夹1', '_20_description': '描述1'}
+2025-07-22 22:06:24,552 - baseAutoHttp.py - INFO - 接口的响应时间：0.025537
+2025-07-22 22:06:24,552 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:add_folder接口调用结束】
+2025-07-22 22:06:24,552 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用开始】
+2025-07-22 22:06:24,558 - baseAutoHttp.py - INFO - 获取【03文件上传下载接口信息】文件【select_folder】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/group/10779/upload', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-22 22:06:24,558 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-22 22:06:24,558 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/upload
+2025-07-22 22:06:24,574 - baseAutoHttp.py - INFO - 接口的响应时间：0.014127
+2025-07-22 22:06:24,574 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用结束】
+2025-07-22 22:06:24,575 - api_file_page.py - INFO - 断言新增文件夹成功
+2025-07-22 22:06:24,575 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用开始】
+2025-07-22 22:06:24,581 - baseAutoHttp.py - INFO - 获取【03文件上传下载接口信息】文件【select_folder】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/group/10779/upload', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-22 22:06:24,581 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-22 22:06:24,581 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/upload
+2025-07-22 22:06:24,600 - baseAutoHttp.py - INFO - 接口的响应时间：0.017118
+2025-07-22 22:06:24,600 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用结束】
+2025-07-22 22:06:24,600 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:delete_folder接口调用开始】
+2025-07-22 22:06:24,606 - baseAutoHttp.py - INFO - 获取【03文件上传下载接口信息】文件【delete_folder】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/group/10779/upload', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}, 'params': {'p_p_id': '20', 'p_p_lifecycle': '1', 'p_p_state': 'maximized', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', '_20_struts_action': '/document_library/edit_folder', '_20_cmd': 'delete', '_20_redirect': '/group/10779/upload', '_20_folderId': '54266'}}
+2025-07-22 22:06:24,606 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-22 22:06:24,606 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/upload
+2025-07-22 22:06:24,735 - baseAutoHttp.py - INFO - 接口的响应时间：0.015549
+2025-07-22 22:06:24,736 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:delete_folder接口调用结束】
+2025-07-22 22:06:24,736 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用开始】
+2025-07-22 22:06:24,742 - baseAutoHttp.py - INFO - 获取【03文件上传下载接口信息】文件【select_folder】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/group/10779/upload', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-22 22:06:24,742 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-22 22:06:24,742 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/upload
+2025-07-22 22:06:24,754 - baseAutoHttp.py - INFO - 接口的响应时间：0.010892
+2025-07-22 22:06:24,754 - baseAutoHttp.py - INFO - 【03文件上传下载接口信息:select_folder接口调用结束】
+2025-07-22 22:06:24,754 - api_file_page.py - INFO - 断言删除文件夹成功

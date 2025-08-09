@@ -1,0 +1,6 @@
+2025-07-20 20:23:35,998 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 20:23:36,760 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 20:23:36,761 - web_file_page.py - INFO - 上传文件开始
+2025-07-20 20:23:37,208 - baseAutoWeb.py - INFO - iframe切换为 file/iframe_file
+2025-07-20 20:23:38,234 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 20:23:38,234 - web_file_page.py - INFO - 上传文件结束

@@ -1,0 +1,10 @@
+2025-07-20 15:47:39,797 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 15:47:40,411 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 15:47:40,413 - web_article_page.py - INFO - 稿件修改开始
+2025-07-20 15:47:40,886 - baseAutoWeb.py - INFO - iframe切换为 article/add_iframe
+2025-07-20 15:47:40,927 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 15:47:41,211 - web_article_page.py - INFO - 稿件修改结束
+2025-07-20 15:47:41,254 - web_article_page.py - INFO - 稿件修改验证成功
+2025-07-20 15:47:41,273 - web_article_page.py - INFO - 稿件修改验证成功
+2025-07-20 15:47:41,275 - web_article_page.py - INFO - 稿件删除开始
+2025-07-20 15:47:41,476 - web_article_page.py - INFO - 稿件删除结束

@@ -1,0 +1,97 @@
+add_folder:
+  method: post
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+  params:
+    p_p_id: "20"
+    p_p_lifecycle: "1"
+    p_p_state: "maximized"
+    p_p_mode: "view"
+    _20_struts_action: "/document_library/edit_folder"
+  data:
+    _20_cmd: "add"
+    _20_redirect: "/group/10779/upload"
+    _20_folderId: "0"
+    _20_parentFolderId: "0"
+    _20_tabs1TabsScroll: ""
+    _20_name: "${name}"
+    _20_description: "${description}"
+
+select_folder:
+  method: get
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+delete_folder:
+  method: post
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+  params:
+    p_p_id: "20"
+    p_p_lifecycle: "1"
+    p_p_state: "maximized"
+    p_p_mode: "view"
+    p_p_col_id: "column-1"
+    p_p_col_count: "1"
+    _20_struts_action: "/document_library/edit_folder"
+    _20_cmd: "delete"
+    _20_redirect: "/group/10779/upload"
+    _20_folderId: "${folderId}"
+
+file_upload:
+  method: post
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+  params:
+    p_p_id: "20"
+    p_p_lifecycle: "1"
+    p_p_state: "pop_up"
+    p_p_mode: "view"
+    _20_struts_action: "/document_library/edit_file_entry"
+  data:
+    _20_cmd: "add"
+    _20_redirect: "/group/10779/upload?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_20_struts_action=%2Fdocument_library%2Fview&_20_folderId=${folderId}"
+    _20_referringPortletResource: ""
+    _20_uploadProgressId: "dlFileEntryUploadProgress"
+    _20_folderId: "${folderId}"
+    _20_newFolderId: ""
+    _20_name: ""
+    _20_title: "${title}"
+    _20_description: "${description}"
+
+select_file:
+  method: get
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+  params:
+    p_p_id: "20"
+    p_p_lifecycle: "0"
+    p_p_state: "maximized"
+    p_p_mode: "view"
+    p_p_col_id: "column-1"
+    p_p_col_count: "1"
+    _20_struts_action: "/document_library/search"
+    _20_redirect: "/group/10779/upload?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_20_struts_action=%2Fdocument_library%2Fview&_20_folderId=${FolderId}"
+    _20_breadcrumbsFolderId: "${FolderId}"
+    _20_searchFolderIds: "${FolderId}"
+    _20_tabs1TabsScroll: ""
+    _20_keywords: "${keywords}"
+
+down_file:
+  method: get
+  url: /group/10779/upload
+  headers:
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+  params:
+    p_p_id: "20"
+    p_p_lifecycle: "1"
+    p_p_state: "exclusive"
+    p_p_mode: "view"
+    _20_struts_action: "/document_library/get_file"
+    _20_folderId: "${FolderId}"
+    _20_name: "${name}"

@@ -1,0 +1,9 @@
+TestSuites/p03_http_gjxt/test_http_gjxt.py::TestApiCase:
+- test_http_case01[case_data0]
+- test_http_case01[case_data1]
+- test_http_case01[case_data2]
+TestSuites/p03_http_gjxt/test_http_gjxt.py::TestApiCase2:
+- test_http_case01[case_data0]
+- test_http_case02[case_data0]
+- test_http_case03[article_add_delete_edit0]
+- test_http_case04[article_add_delete0]

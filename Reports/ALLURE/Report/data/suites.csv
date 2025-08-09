@@ -1,0 +1,29 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+        接口自动化用例-用户登录测试
+        :return:
+        ","42","test_http_case01[case_data1]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:49 CST 2025","passed","Wed Jul 23 19:04:50 CST 2025","TestApiCase","test_http_gjxt","",""
+"
+        接口自动化用例-稿件增加测试
+        :return:
+        ","319","test_http_case01[case_data0]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:50 CST 2025","passed","Wed Jul 23 19:04:50 CST 2025","TestApiCase2","test_http_gjxt","",""
+"
+        接口自动化用例-稿件查询测试
+        :return:
+        ","25","test_http_case04[article_add_delete0]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:51 CST 2025","passed","Wed Jul 23 19:04:51 CST 2025","TestApiCase2","test_http_gjxt","",""
+"
+        接口自动化用例-稿件编辑测试
+        :return:
+        ","153","test_http_case03[article_add_delete_edit0]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:50 CST 2025","passed","Wed Jul 23 19:04:51 CST 2025","TestApiCase2","test_http_gjxt","",""
+"
+        接口自动化用例-用户登录测试
+        :return:
+        ","593","test_http_case01[case_data0]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:49 CST 2025","passed","Wed Jul 23 19:04:49 CST 2025","TestApiCase","test_http_gjxt","",""
+"
+        接口自动化用例-稿件删除测试
+        :return:
+         ","375","test_http_case02[case_data0]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:50 CST 2025","passed","Wed Jul 23 19:04:50 CST 2025","TestApiCase2","test_http_gjxt","",""
+"
+        接口自动化用例-用户登录测试
+        :return:
+        ","38","test_http_case01[case_data2]","TestSuites.p03_http_gjxt","Wed Jul 23 19:04:50 CST 2025","passed","Wed Jul 23 19:04:50 CST 2025","TestApiCase","test_http_gjxt","",""

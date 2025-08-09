@@ -1,0 +1,2 @@
+2025-07-19 23:18:10,110 - dbbase.py - INFO - 建立链接ok
+2025-07-19 23:18:10,110 - dbbase.py - ERROR - (1146, "Table 'lportal.journalartile' doesn't exist")

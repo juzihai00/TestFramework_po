@@ -1,0 +1,24 @@
+TestSuites/p03_http_gjxt/test_http_gjxt.py::TestApiCase:
+  comment: "\n    接口自动化-稿件管理系统-登录功能模块\n    "
+  test_http_case01[case_data0]: "\n        接口自动化用例-用户登录测试\n        :return:\n    \
+    \    "
+  test_http_case01[case_data1]: "\n        接口自动化用例-用户登录测试\n        :return:\n    \
+    \    "
+  test_http_case01[case_data2]: "\n        接口自动化用例-用户登录测试\n        :return:\n    \
+    \    "
+TestSuites/p03_http_gjxt/test_http_gjxt.py::TestApiCase2:
+  comment: "\n    接口自动化-稿件管理系统-新增稿件功能模块\n    "
+  test_http_case01[case_data0]: "\n        接口自动化用例-稿件增加测试\n        :return:\n    \
+    \    "
+  test_http_case02[case_data0]: "\n        接口自动化用例-稿件删除测试\n        :return:\n    \
+    \     "
+  test_http_case03[article_add_delete_edit0]: "\n        接口自动化用例-稿件编辑测试\n        :return:\n\
+    \        "
+  test_http_case04[article_add_delete0]: "\n        接口自动化用例-稿件查询测试\n        :return:\n\
+    \        "
+TestSuites/p03_http_gjxt/test_http_gjxt.py::TestApiCase3:
+  comment: "\n    接口自动化-稿件管理系统-文件上传下载功能模块\n    "
+  test_file_case1[case_data0]: "\n        接口自动化用例-文件夹上传和删除测试\n        :return:\n \
+    \       "
+  test_file_case2[case_data0]: "\n        接口自动化用例-文件上传\n        :return:\n        "
+  test_file_case3[case_data0]: "\n        接口自动化用例-文件下载\n        :return:\n        "

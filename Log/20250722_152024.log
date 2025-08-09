@@ -1,0 +1,20 @@
+2025-07-22 15:20:24,341 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用开始】
+2025-07-22 15:20:24,343 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【home_api】接口请求数据：{'method': 'get', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}}
+2025-07-22 15:20:24,343 - baseAutoHttp.py - INFO - 接口的请求方式：get
+2025-07-22 15:20:24,343 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-22 15:20:24,390 - baseAutoHttp.py - INFO - 接口的响应时间：0.043875
+2025-07-22 15:20:24,391 - baseAutoHttp.py - INFO - 【01登录页面接口信息:home_api接口调用结束】
+2025-07-22 15:20:24,391 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用开始】
+2025-07-22 15:20:24,393 - baseAutoHttp.py - INFO - 获取【01登录页面接口信息】文件【login_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/web/guest/home', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Content-Type': 'application/x-www-form-urlencoded'}, 'params': {'p_p_id': '58', 'p_p_lifecycle': '1', 'p_p_state': 'normal', 'p_p_mode': 'view', 'p_p_col_id': 'column-1', 'p_p_col_count': '1', 'saveLastPath': '0', '_58_struts_action': '/login/view', '_58_cmd': 'update'}, 'data': {'_58_redirect': '', '_58_login': 'test01', '_58_password': '1111'}}
+2025-07-22 15:20:24,393 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-22 15:20:24,393 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/web/guest/home
+2025-07-22 15:20:24,393 - baseAutoHttp.py - INFO - 接口的请求体：{'_58_redirect': '', '_58_login': 'test01', '_58_password': '1111'}
+2025-07-22 15:20:24,582 - baseAutoHttp.py - INFO - 接口的响应时间：0.025147
+2025-07-22 15:20:24,582 - baseAutoHttp.py - INFO - 【01登录页面接口信息:login_api接口调用结束】
+2025-07-22 15:20:24,583 - baseAutoHttp.py - INFO - 【02稿件管理接口信息:select_api接口调用开始】
+2025-07-22 15:20:24,592 - baseAutoHttp.py - INFO - 获取【02稿件管理接口信息】文件【select_api】接口请求数据：{'method': 'post', 'url': 'http://127.0.0.1/group/10779/articles', 'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'}, 'params': {'_15_struts_action': '/journal/view', '_15_tabs1': 'articles', 'p_p_id': '15', 'p_p_lifecycle': '0', 'p_p_mode': 'view', 'p_p_state': 'maximized'}, 'data': {'_15_cmd': '', '_15_tabs1TabsScroll': '', '_15_groupId': '', '_15_deleteArticleIds': '', '_15_expireArticleIds': '', '_15_advancedSearch': 'false', '_15_keywords': '', '_15_andOperator': '1', '_15_searchArticleId': '', '_15_version': '', '_15_title': '', '_15_content': ''}}
+2025-07-22 15:20:24,592 - baseAutoHttp.py - INFO - 接口的请求方式：post
+2025-07-22 15:20:24,592 - baseAutoHttp.py - INFO - 接口的请求地址：http://127.0.0.1/group/10779/articles
+2025-07-22 15:20:24,592 - baseAutoHttp.py - INFO - 接口的请求体：{'_15_cmd': '', '_15_tabs1TabsScroll': '', '_15_groupId': '', '_15_deleteArticleIds': '', '_15_expireArticleIds': '', '_15_advancedSearch': 'false', '_15_keywords': '', '_15_andOperator': '1', '_15_searchArticleId': '', '_15_version': '', '_15_title': '', '_15_content': ''}
+2025-07-22 15:20:24,613 - baseAutoHttp.py - INFO - 接口的响应时间：0.019506
+2025-07-22 15:20:24,613 - baseAutoHttp.py - INFO - 【02稿件管理接口信息:select_api接口调用结束】

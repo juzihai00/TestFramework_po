@@ -1,0 +1,8 @@
+2025-07-20 16:28:50,759 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 16:28:51,376 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 16:28:51,377 - web_article_page.py - INFO - 稿件新增开始
+2025-07-20 16:28:51,668 - baseAutoWeb.py - INFO - iframe切换为 article/add_iframe
+2025-07-20 16:28:51,703 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 16:28:52,112 - web_article_page.py - INFO - 稿件新增结束
+2025-07-20 16:28:52,113 - web_article_page.py - INFO - 查询稿件开始
+2025-07-20 16:28:52,273 - web_article_page.py - INFO - 稿件查询结束

@@ -1,0 +1,48 @@
+2025-07-20 21:45:17,288 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:45:18,365 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:45:21,856 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:45:22,462 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:45:25,740 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:45:26,127 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:45:29,606 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:45:30,298 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:45:30,301 - web_article_page.py - INFO - 稿件新增开始
+2025-07-20 21:45:32,166 - baseAutoWeb.py - INFO - iframe切换为 article/add_iframe
+2025-07-20 21:45:46,834 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:45:47,424 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:45:47,426 - web_article_page.py - INFO - 稿件新增开始
+2025-07-20 21:45:47,732 - baseAutoWeb.py - INFO - iframe切换为 article/add_iframe
+2025-07-20 21:46:02,322 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:46:02,894 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:46:02,895 - web_article_page.py - INFO - 稿件修改开始
+2025-07-20 21:46:03,551 - baseAutoWeb.py - INFO - iframe切换为 article/add_iframe
+2025-07-20 21:46:14,657 - web_article_page.py - INFO - 稿件删除开始
+2025-07-20 21:46:28,700 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:46:29,280 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:46:29,281 - web_article_page.py - INFO - 查询稿件开始
+2025-07-20 21:46:29,494 - web_article_page.py - INFO - 稿件查询结束
+2025-07-20 21:46:29,553 - web_article_page.py - INFO - 断言稿件查询成功
+2025-07-20 21:46:32,886 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:46:33,497 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:46:33,499 - web_file_page.py - INFO - 新增文件夹开始
+2025-07-20 21:46:34,177 - web_file_page.py - INFO - 新增文件夹结束
+2025-07-20 21:46:34,199 - web_file_page.py - INFO - 断言新增文件夹成功
+2025-07-20 21:46:34,199 - web_file_page.py - INFO - 删除文件夹开始
+2025-07-20 21:46:34,357 - web_file_page.py - INFO - 删除文件夹结束
+2025-07-20 21:46:34,604 - web_file_page.py - INFO - 断言删除文件夹成功
+2025-07-20 21:46:37,961 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:46:38,553 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:46:38,555 - web_file_page.py - INFO - 新增文件夹开始
+2025-07-20 21:46:39,026 - web_file_page.py - INFO - 新增文件夹结束
+2025-07-20 21:46:39,027 - web_file_page.py - INFO - 上传文件开始
+2025-07-20 21:46:39,456 - baseAutoWeb.py - INFO - iframe切换为 file/iframe_file
+2025-07-20 21:46:39,728 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 21:46:39,728 - web_file_page.py - INFO - 上传文件结束
+2025-07-20 21:46:54,210 - web_login_page.py - INFO - 稿件系统登录开始
+2025-07-20 21:46:54,915 - web_login_page.py - INFO - 稿件系统登陆结束
+2025-07-20 21:46:54,917 - web_file_page.py - INFO - 新增文件夹开始
+2025-07-20 21:46:55,467 - web_file_page.py - INFO - 新增文件夹结束
+2025-07-20 21:46:55,468 - web_file_page.py - INFO - 上传文件开始
+2025-07-20 21:46:55,843 - baseAutoWeb.py - INFO - iframe切换为 file/iframe_file
+2025-07-20 21:46:56,116 - baseAutoWeb.py - INFO - iframe切换到最外层成功
+2025-07-20 21:46:56,116 - web_file_page.py - INFO - 上传文件结束
